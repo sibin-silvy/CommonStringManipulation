@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSumPair", "FindSumPair.csproj", "{996A64D3-3D1A-444F-A388-A34036D30C88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996A64D3-3D1A-444F-A388-A34036D30C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996A64D3-3D1A-444F-A388-A34036D30C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996A64D3-3D1A-444F-A388-A34036D30C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996A64D3-3D1A-444F-A388-A34036D30C88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB39F9C-80EC-4333-8D81-FF7D93714E5D}
+	EndGlobalSection
+EndGlobal
